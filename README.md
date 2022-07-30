@@ -1,2 +1,2 @@
 # GoOS
-Operation System in Golang
+Operating System in Golang
